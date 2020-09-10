@@ -1,0 +1,12 @@
+# Define the goal
+lipm_msgs/TrajectoryPoints CoM
+lipm_msgs/TrajectoryPoints DCM
+lipm_msgs/TrajectoryPoints VRP
+lipm_msgs/TrajectoryPoints LLeg
+lipm_msgs/TrajectoryPoints RLeg
+---
+# Define the result
+int32 status
+---
+# Define a feedback message
+float32 percent_completed
