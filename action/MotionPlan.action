@@ -1,6 +1,8 @@
 # Define the goal
 geometry_msgs/Pose lfoot
 geometry_msgs/Pose rfoot
+nav_msgs/Odometry CoM 
+geometry_msgs/Point COP
 lipm_msgs/StepTarget[] footsteps
 ---
 # Define the result

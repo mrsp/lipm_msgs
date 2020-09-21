@@ -4,6 +4,10 @@ lipm_msgs/TrajectoryPoints DCM
 lipm_msgs/TrajectoryPoints VRP
 lipm_msgs/TrajectoryPoints LLeg
 lipm_msgs/TrajectoryPoints RLeg
+lipm_msgs/TrajectoryPoints LHand
+lipm_msgs/TrajectoryPoints RHand
+lipm_msgs/TrajectoryPoints Head
+
 ---
 # Define the result
 int32 status

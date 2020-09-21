@@ -25,6 +25,7 @@ DEPENDENCIES
 std_msgs
 geometry_msgs
 actionlib_msgs
+nav_msgs
 )
 
 catkin_package( CATKIN_DEPENDS std_msgs nav_msgs geometry_msgs message_runtime)
