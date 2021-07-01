@@ -17,7 +17,7 @@ FILES TrajectoryPoints.msg StepTarget.msg
 )
 add_action_files(
   DIRECTORY action
-  FILES MotionPlan.action MotionControl.action
+  FILES MotionPlan.action MotionControl.action StepPlan.action
 )
 
 generate_messages(
